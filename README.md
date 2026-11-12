@@ -21,9 +21,10 @@ Las familias que trabajan el descanso de un bebé necesitan registrar rutinas, s
 
 ## 📱 Capturas
 
-<!-- Sustituye por tus imágenes reales, con datos de prueba (nada de datos reales de usuarias) -->
-![Pantalla de registro](capturas/registro.jpg)
-![Resumen de sueño](capturas/resumen.jpg)
+<p align="center">
+  <img src="capturas/registro.jpg" width="250" alt="Pantalla de registro" />
+  <img src="capturas/resumen.jpg" width="250" alt="Resumen de sueño" />
+</p>
 
 ## 🚧 Estado del proyecto
 
